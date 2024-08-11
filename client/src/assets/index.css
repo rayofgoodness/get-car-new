@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+header {
+    /* Header styles here */
+}
+
+main {
+    flex: 1;
+}
+
+footer {
+    /* Footer styles here */
+}
